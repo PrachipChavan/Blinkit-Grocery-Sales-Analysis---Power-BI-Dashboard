@@ -1,4 +1,5 @@
 # Blinkit Grocery Sales Analysis- Power-BI Dashboard
+<img width="1277" height="717" alt="dashboard_img" src="https://github.com/user-attachments/assets/25f96d1f-466b-4106-baf0-dae3ad41118b" />
 This project is a comprehensive Data Analysis and Visualization exercise using Microsoft Power BI. The goal was to analyze the sales performance of Blinkit (India's quick-commerce grocery delivery service) by developing an interactive dashboard. The dashboard provides actionable insights into sales trends, product performance, outlet efficiency, and customer preferences. 
 
 🎯 Business Problem & Objectives
